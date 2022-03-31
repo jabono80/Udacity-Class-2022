@@ -1,4 +1,4 @@
-====== **Project One: Deploying a web server in Azure**
+# **Project One: Deploying a web server in Azure**
 ![Azure](https://png.pngitem.com/pimgs/s/299-2994950_microsoft-dynamics-nav-hd-png-download.png)
 
 ## Introduction
